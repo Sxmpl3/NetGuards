@@ -13,7 +13,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install NetGuar
 # Quick Start
 
 ```
-from NetGuard import DoSGuard, DDoSGuard, ArpGuard
+from NetGuards import DoSGuard, DDoSGuard, ArpGuard
 import threading
 import time
 
