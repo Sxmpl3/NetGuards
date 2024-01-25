@@ -1,4 +1,4 @@
-from NetGuard import DoSGuard, DDoSGuard, ArpGuard
+from NetGuards import DoSGuard, DDoSGuard, ArpGuard
 import threading
 import time
 
