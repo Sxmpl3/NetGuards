@@ -12,9 +12,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install NetGuar
 # Usage
 # Quick Start
 
-```from NetGuard.analyzer import NetworkAnalyzer
-import threading
-import time
+```
+from NetGuard.analyzer import NetworkAnalyzer
 
 if __name__ == "__main__":
     # Initialize NetGuard analyzer with target IP and optional threshold
