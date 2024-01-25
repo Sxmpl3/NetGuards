@@ -4,7 +4,7 @@ NetGuards is a Python library designed for network traffic analysis and detectio
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install NetGuard.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install NetGuards.
 
 ```pip install NetGuards```
 
